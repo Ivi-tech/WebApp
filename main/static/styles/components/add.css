@@ -1,0 +1,21 @@
+.add{
+    display: inline-block;
+    background: snow;
+}
+
+.add_input{
+    padding: 6px 15px;
+    outline: none;
+    border: 1px solid gray;
+    border-radius: 10px 10px 10px 10px;
+
+}
+
+.add_button{
+    padding: 6px 10px;
+    background: snow;
+    border: 1px solid gray;
+    border-radius: 5px 5px 5px 5px;
+    cursor: pointer;
+
+}
